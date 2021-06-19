@@ -1,41 +1,81 @@
 # Политика персональных данных
-## Цели обработки
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Настоящая Политика персональных данных (**Политика**) рассказывает о том, как мы обрабатываем данные пользователей сервиса eConsent (**Сервис**). Благодаря Политике вы сможете узнать, зачем мы используем ваши данные, кому передаем, как защищаем. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Таким образом, Политика – одновременно удобный справочник и гарантия соблюдения прав субъектов персональных данных согласно ст. 18.1(1)(2) Федерального Закона №152-ФЗ «О персональных данных» (**152-ФЗ**).
 
-## Категории обрабатываемых данных
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 1.	Оператор персональных данных
+Согласно закону, оператор это лицо, которое определяет цели и средства обработки данных. В отношении Сервиса оператором является индивидуальный предприниматель Блинов Олег Игоревич (ИНН: 770205511708, ОГРНИП: 321774600187582). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Вы можете связаться с оператором по вопросам, связанным с обработкой ваших данных, написав на <econsent@yandex.ru>.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 2.	Цели и правовые основания обработки
+Сервис может обрабатывать ваши персональные данные только полагаясь на действительное правовое основание. Такими правовыми основаниями являются (1) исполнение договора; (2) исполнение закона; (3) законные интересы; и (4) согласие.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 2.1.	Исполнение договора
+Обработка необходима для выполнения обязанностей по договору, по которому вы являетесь стороной или выгодоприобретателем. При этом мы достигаем следующих целей:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Аутентификация в Сервисе, предоставление доступа в личный кабинет;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Оказание услуг согласно Условиям использования. В частности, фиксация и подтверждение совершенных в Сервисе действий.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 2.2.	Исполнение закона
+Обработка необходима для соблюдения требований закона. К примеру, нам нужно хранить информацию, подтверждающую платежи, для соблюдения бухгалтерского законодательства.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 2.3.	Законный интерес
+Законный интерес – это возможность оператора обрабатывать данные при условии поддержания баланса между своими интересами и рисками для вас и ваших данных. Проще говоря, Сервис обязан обеспечивать ваши права, оценивать риски и придумывать способы их минимизации. По законному интересу мы обрабатываем ваши данные для следующих целей:
 
-## Получатели данных
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Хранение согласий на обработку данных, отзывов таких согласий и иных подписанных электронных документов. Хранение необходимо для предоставления документов авторизованным пользователям: вам или адресатам документов;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Улучшение Сервиса.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 2.4.	Согласие
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Мы можем спросить вашего согласия на обработку данных. В таком случае Сервис предложит дать согласие и даст соответствующее пояснение о параметрах обработки.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 3.	Категории обрабатываемых данных
+### 3.1.	Регистрация
+В процессе регистрации мы собираем ваш адрес электронной почты. Если Вы используете социальную аутентификацию, мы получаем от Google или Facebook еще и ваши имя и фамилию, а также ссылку на картинку профиля. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Мы не сохраняем на сервере никакую информацию, кроме адреса электронной почты. Ваше имя и фамилия, а также картинка профиля хранятся на вашем браузере.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 3.2.	Использование Сервиса
+Зайдя в кабинет подписания документов, вы можете увидеть запросы с прикрепленными документами. В этих документах в разделе подписанта присутствуют ваши данные. Мы получаем эти данные о вашей компании и обрабатываем их в рамках поручения, т.е. от имени компании.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Как только вы подписываете документ, Сервис фиксирует содержание документа и сохраняет ее в базу данных. При этом проставляется время действия, ваша электронная подпись. Весь объем информации в электронных документах сохраняется и обрабатывается Сервисом как оператором персональных данных. 
+Это призвано гарантировать беспристрастность и независимость Сервиса при хранении документов. В документах, как правило, содержится: 
+
+- ФИО;
+- Адрес почты;
+- Адрес;
+- Паспортные данные;
+- Содержание согласия или отзыва: цели, категории данных и так далее;
+- Время подписания документа.
+
+## 4.	Получатели данных
+Для того, чтобы оказывать свои услуги, Сервис использует услуги хостинга. Такими партнерами являются:
+
+- ООО «Яндекс.Облако», ИНН: 7704458262, 119021, г Москва, улица Льва Толстого, дом 16, помещение 528 ([условия использования](https://yandex.ru/legal/cloud_termsofuse)); и
+- Amazon Web Services Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, USA ([договор на поручение обработки](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf)).
+
+Кроме того, после подписания документов такие документы могут храниться и передаваться адресатам таких документов. К примеру, информация о согласии работника доступна работодателю.
+
+## 5.	Сроки обработки
+Сервис хранит данные до тех пор, пока это необходимо для достижения цели, для которой информация была собрана.
+
+Если иное не требуется по применимому законодательству, мы храним подписанные вами документы до тех пор, пока не будут удалены ваш аккаунт и аккаунт адресата электронного документа. 
+
+## 6.	Ваши права в отношении персональных данных
+Согласно 152-ФЗ, вы имеете следующие права в отношении своих данных:
+- Право доступа к своим данным;
+- Право исправить некорректные или устаревшие данные;
+- Требовать ограничений или прекращения обработки персональных данные в случае отсутствия надлежащего правового основания;
+- Оспаривать наличие законного интереса оператора;
+- Отзывать согласие на обработку персональных данных.
+Для реализации своих прав просим направить письмо с ящика почты, с которой вы авторизовались в Сервисе, на адрес <econsent@yandex.ru>.
+
+## 7.	Защита данных
+Мы принимаем необходимые правовые, организационные и технические меры для защиты ваших прав и ваших данных. Одним из элементов таких гарантий является настоящая Политика. Помимо этого, мы используем актуальные технологии защиты информации, в том числе шифрование при передаче данных.
+## 8.	Обновления Политики
+Мы можем обновлять настояющую Политику. Актуальная версия политики доступна по адресу https://github.com/olblinov/eConsent-docs/blob/main/legal-texts/privacyPolicy.md. Там же доступны предыдущие версии данного документа.
+Мы уведомим вас в случае внесения существенных изменений в настоящую Политику. 
